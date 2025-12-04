@@ -48,6 +48,7 @@ The notebooks build on each other:
 
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)** - Comprehensive guide to effective prompting techniques
 - **[Ollama Models](https://ollama.ai/library)** - Local model library for privacy-focused development
+- **[code-review.md](code-review.md)** - Practical prompts for AI-assisted code review (PR reviews, file reviews, and repository audits)
 
 ## License
 
